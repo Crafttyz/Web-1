@@ -1,2 +1,1 @@
-# Web-1
-Figma MVP
+# Crafttyz-Website
